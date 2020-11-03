@@ -20,11 +20,9 @@
 
 title: Nxhoang Blog
 email: nxhoang99@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  My name is Hoang, a student from HUST. My blog will share my knowledge about Web Security, tools, tips, and 
-  solution of all CTF competitions which i attend. 
+# description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nxhoanghust.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  nxhoanghust
 
